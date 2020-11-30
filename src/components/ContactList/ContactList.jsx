@@ -1,7 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import ContactListItem from './ContactListItem.jsx';
-import styles from '../ContactList/ContactList.module.css';
+import styles from './ContactList.module.css';
 
 const ContactList = ({ visibleContacts, handleDelete }) => {
   return (

@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import utils from './components/utils';
+import './App.css';
 import ContactForm from './components/ContactForm/ContactForm.jsx';
 import ContactList from './components/ContactList/ContactList.jsx';
 import Filter from './components/Filter/Filter.jsx';
